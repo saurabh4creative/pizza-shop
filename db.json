@@ -1,0 +1,54 @@
+{
+  "products": [
+      {
+          "id" : "60c67bdff5ee510015f3dda8",
+          "name": "Havana special",
+          "price": 599,
+          "size": "Small",
+          "image": "1.png",
+          "createdAt": "2021-06-13T21:42:55.573Z"
+      },
+      {
+          "id" : "60c67bc0f5ee510015f3dda7",
+          "name": "Chicken Premier",
+          "price": 699,
+          "size": "Medium",
+          "image": "2.png",
+          "createdAt": "2021-06-13T21:42:55.573Z"
+      },
+      {
+          "id" : "60c67ba9f5ee510015f3dda6",
+          "name": "Double Peperoni",
+          "price": 799,
+          "size": "Large",
+          "image": "3.png",
+          "createdAt": "2021-06-13T21:42:55.573Z"
+      },
+      {
+          "id" : "60c67b95f5ee510015f3dda5",
+          "name": "Mushroom",
+          "price": 899,
+          "size": "Extra Large",
+          "image": "4.png",
+          "createdAt": "2021-06-13T21:42:55.573Z"
+      },
+      {
+          "id" : "60c67b7ef5ee510015f3dda4",
+          "name": "Hawaiian",
+          "price": 999,
+          "size": "Extra Large",
+          "image": "5.png",
+          "createdAt": "2021-06-13T21:42:55.573Z"
+      },
+      {
+          "id" : "60c67b6af5ee510015f3dda3",
+          "name": "Barbeque Chicken",
+          "price": 1999,
+          "size": "Double Large",
+          "image": "6.png",
+          "createdAt": "2021-06-13T21:42:55.573Z"
+      }
+  ],
+  "users": [ ],
+  "profile": []
+}
